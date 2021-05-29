@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grSyLnh/alucinaciones.jpg",Alucinaciones del pasado
+https://archive.org/download/tinaco_20210527/Alucinaciones%20Del%20Pasado.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RYh9gSB/experimento.jpg",Experimento Fantasma
+https://archive.org/download/manguera_20210527/El.Experimento.Fantasma.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwrd59b/ruega.jpg",Ruega por Nosotros (2021)
 https://archive.org/download/tinaco_20210525/The.Unholy.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQN0d82/intrusos.jpg",Los Intrusos (2020)
